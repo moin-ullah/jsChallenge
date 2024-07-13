@@ -4,25 +4,25 @@ var a = 5;
 console.log(a);
 
 // Task 2
-let name = 'JavaScript';
-console.log(name);
+let animal = 'Tiger';
+console.log(animal);
 
 
 // Activity 2
 // Task 3
 
-const isLoggedIn = true;
+const isLoggedIn switch = true;
 console.log(isLoggedIn);
 
 // Activity 3
 // Task 4
-let num = 10;
-let str = 'Hello';
-let bool = true;
+let num = 7;
+let str = 'Greeting';
+let bool = false;
 let arr = [1,2,3,4,5];
 let obj ={
   name: 'javascript',
-  age: 25
+  age: 24
 }
 
 console.log(typeof num);
@@ -33,14 +33,14 @@ console.log(typeof obj);
 // Activity 4
 // Task 5
 
-let x = 100;
+let x = 20;
 console.log(x);
-x = 'Hello';
+x = 'Greeting';
 console.log(x);
 
 // Activity 5
 // Task 6
 
-const er = 'Hello error';
-er = 'This is a new error';
-console.log(er);
+const y = 'Hello JavaScript';
+y = 'New File';
+console.log(y);
